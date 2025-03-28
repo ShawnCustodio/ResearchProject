@@ -1,4 +1,6 @@
 [core]
     remote = myremote
+[cache]
+    dir = cache
 ['remote "myremote"']
-    url = gdrive://1EPSYeyrqr2cOQjp0uSXjG-V0cDx4tvFI
+    url = s3://research-dvc-storage/models/
